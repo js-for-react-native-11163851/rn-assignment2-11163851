@@ -2,6 +2,7 @@
 rn-assignment2-11163851 project
 ID:11163851
 This is a basic react native project that contain a react native app.
+The background color of the app is light red which contains a text in my name "ASOMANI GIDEON".
 The fonts of app are formated with bold and font size is increased to 24 points
 below is a screenshot of the react native app and how it runs of the android emulator.
 
